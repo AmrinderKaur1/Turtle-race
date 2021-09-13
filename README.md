@@ -7,5 +7,7 @@ Then the GUI asks the user whether to start the race or not i.e. enter yes or no
 Turtles starts moving at a random pace.
 The turtles that finishes the track first, gets declared as the winner. 
 Then appears the pop up box that shows the user whether he is won or lost. If the bet he had earlier is the same as the winner turtle, the user is won or else.
-In the pop up window the user gets asked to enter an affirmation that can be anything he wants.
-
+In the pop up window the user gets asked to enter an affirmation that can be anything he wants and click OK.
+The pop up disappears and the programs gets finished on a click anywhere in the GUI. (i.e. using the screen.exitonclick() turtle function).
+Congrats you understood the basic idea behind our mini game. ☺
+Best of Luck ! ✌
