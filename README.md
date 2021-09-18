@@ -11,5 +11,5 @@ Then appears the pop up box that shows the user whether he is won or lost. If th
 In the pop up window the user gets asked to enter an affirmation that can be anything he wants and click OK.
 The pop up disappears and the programs gets finished on a click anywhere in the GUI. (i.e. using the screen.exitonclick() turtle function).
 Congrats you understood the basic idea behind our mini game. ☺
-Best of  ! ✌
+Best of luck ! ✌
 
