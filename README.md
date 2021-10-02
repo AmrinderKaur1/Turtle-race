@@ -14,4 +14,3 @@ Congrats you understood the basic idea behind our mini game. ☺
 Best of luck ! ✌
 
 sjd
-hyjhn
